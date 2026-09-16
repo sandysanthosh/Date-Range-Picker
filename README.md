@@ -1,3 +1,39 @@
+<!-- portfolio-docs-v1 -->
+# Date Range Picker
+
+> A date-range picker reference implementation and demonstration.
+
+## Repository Context
+
+| Item | Details |
+|---|---|
+| Project type | UI component reference |
+| Technologies | JavaScript, CSS, Moment.js |
+| Primary focus | Date selection and reusable web controls |
+| Status | Reference copy; original third-party attribution and documentation are preserved below. |
+
+## What This Repository Demonstrates
+
+- Practical, hands-on exploration of **date selection and reusable web controls**
+- Ability to organise examples and technical material for later reuse
+- Breadth across web, backend, API, and software-engineering concepts
+
+## Getting Started
+
+Open `demo.html` or `index.html` in a browser.
+
+### Key contents
+
+`bower.json`, `daterangepicker.css`, `daterangepicker.js`, `demo.html`, `drp.png`, `example`, `index.html`, `moment.min.js`
+
+## Portfolio Note
+
+This repository is part of my earlier learning and experimentation archive. My current professional focus is **Java, Spring Boot, microservices, REST APIs, Kafka, cloud-native engineering, and banking technology**. See my [GitHub profile](https://github.com/sandysanthosh) for current positioning and featured work.
+
+---
+
+## Original Documentation
+
 # Date Range Picker
 
 ![Improvely.com](https://i.imgur.com/UTRlaar.png)
